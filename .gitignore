@@ -1,0 +1,81 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+android/.gradle/
+android/app/key.properties
+android/local.properties
+*.iml
+
+# Environment & Config
+.env
+.env.*
+*.secret.yaml
+*.secret.json
+*.keystore
+*.jks
+
+# VS Code & IntelliJ
+.vscode/
+.idea/
+*.ipr
+*.iws
+
+# macOS & Linux
+.DS_Store
+*.swp
+*.swo
+
+# Coverage & Logs
+coverage/
+*.log
+*.tmp
+
+# Generated files
+lib/generated_plugin_registrant.dart
+
+# Firebase & Google Services
+google-services.json
+GoogleService-Info.plist
+firebase_app_id_file.json
+
+# Web build
+web/.dart_tool/
+web/build/
+build/web/
+node_modules/
+
+# Testing artifacts
+test_output/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Windows
+windows/runner/Debug/
+windows/runner/Release/
+windows/runner/x64/
+windows/runner/x86/
+
+# Android Studio
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# Flutter build artifacts
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.metadata
+.packages
+
+# Other
+*.lock
